@@ -1,0 +1,52 @@
+body{
+padding-top: 800px;
+margin: 0;
+    text-align: center;
+    background-image:  url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="36" height="72" viewBox="0 0 36 72"%3E%3Cg fill-rule="evenodd"%3E%3Cg fill="%239C92AC" fill-opacity="0.4"%3E%3Cpath d="M2 6h12L8 18 2 6zm18 36h12l-6 12-6-12z"/%3E%3C/g%3E%3C/g%3E%3C/svg%3E');
+    background-color:#cf32bf ;
+}
+    
+    
+    
+}
+profile{
+    width:400px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    border: 5px; solid:blue;
+    padding: 5px;
+}
+
+#welcome{
+position:absoloute;
+overflow:hidden;
+height:800px;
+colour:red;
+left:o;
+right:o;
+top:0;
+bottom:0;
+opacity:0.83px;
+baground-image:linear-gradient(pink,lavender,yellow);
+display;table;
+    width: 100px;
+    height: 100px;
+    z-index: 9;
+    font-weight: bold;
+    font-size:45px;
+}
+.inner{
+display: table-cell;
+position: relative;
+text-align: center;
+    vertical-align: center;
+}
+
+h1{
+    text-shadow:2px 2px #F855D8;
+    
+    
+
+    
+    
+    
